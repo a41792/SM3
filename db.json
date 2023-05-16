@@ -1,1 +1,64 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alexo",
+      "name": "alex",
+      "email": "abc@ipb.pt"
+    },
+    {
+      "id": 2,
+      "username": "john_doe",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 3,
+      "username": "mary_smith",
+      "name": "Mary Smith",
+      "email": "mary.smith@example.com"
+    },
+    {
+      "id": 4,
+      "username": "jennifer_riley",
+      "name": "Jennifer Riley",
+      "email": "jennifer.riley@example.com"
+    },
+    {
+      "id": 5,
+      "username": "michael_johnson",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com"
+    },
+    {
+      "id": 6,
+      "username": "lisa_williams",
+      "name": "Lisa Williams",
+      "email": "lisa.williams@example.com"
+    },
+    {
+      "id": 7,
+      "username": "david_brown",
+      "name": "David Brown",
+      "email": "david.brown@example.com"
+    },
+    {
+      "id": 8,
+      "username": "sarah_thompson",
+      "name": "Sarah Thompson",
+      "email": "sarah.thompson@example.com"
+    },
+    {
+      "id": 9,
+      "username": "peter_smith",
+      "name": "Peter Smith",
+      "email": "peter.smith@example.com"
+    },
+    {
+      "id": 10,
+      "username": "emily_jones",
+      "name": "Emily Jones",
+      "email": "emily.jones@example.com"
+    }
+  ]
+}
