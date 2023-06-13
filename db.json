@@ -69,7 +69,7 @@
       "city": "braganca",
       "country": "portugal",
       "password": "abc",
-      "confirmPass" "abc"
+      "confirmPass": "abc"
     }
   ]
 }
