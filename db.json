@@ -4,61 +4,71 @@
       "id": 1,
       "username": "alexo",
       "name": "alex",
-      "email": "abc@ipb.pt"
+      "email": "abc@ipb.pt",
+      "password": "abc"
     },
     {
       "id": 2,
       "username": "john_doe",
       "name": "John Doe",
-      "email": "john.doe@example.com"
+      "email": "john.doe@example.com",
+      "password": "abc"
     },
     {
       "id": 3,
       "username": "mary_smith",
       "name": "Mary Smith",
-      "email": "mary.smith@example.com"
+      "email": "mary.smith@example.com",
+      "password": "abc"
     },
     {
       "id": 4,
       "username": "jennifer_riley",
       "name": "Jennifer Riley",
-      "email": "jennifer.riley@example.com"
+      "email": "jennifer.riley@example.com",
+      "password": "abc"
     },
     {
       "id": 5,
       "username": "michael_johnson",
       "name": "Michael Johnson",
-      "email": "michael.johnson@example.com"
+      "email": "michael.johnson@example.com",
+      "password": "abc"
     },
     {
       "id": 6,
       "username": "lisa_williams",
       "name": "Lisa Williams",
-      "email": "lisa.williams@example.com"
+      "email": "lisa.williams@example.com",
+      "password": "abc"
     },
     {
       "id": 7,
       "username": "david_brown",
       "name": "David Brown",
-      "email": "david.brown@example.com"
+      "email": "david.brown@example.com",
+      "password": "abc"
     },
     {
       "id": 8,
       "username": "sarah_thompson",
       "name": "Sarah Thompson",
-      "email": "sarah.thompson@example.com"
+      "email": "sarah.thompson@example.com",
+      "password": "abc"
     },
     {
       "id": 9,
       "username": "peter_smith",
       "name": "Peter Smith",
-      "email": "peter.smith@example.com"
+      "email": "peter.smith@example.com",
+      "password": "abc"
     },
     {
       "id": 10,
       "username": "emily_jones",
       "name": "Emily Jones",
-      "email": "emily.jones@example.com"
+      "email": "emily.jones@example.com",
+      "password": "abc"
     }
   ],
   "register": [
