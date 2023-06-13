@@ -60,5 +60,16 @@
       "name": "Emily Jones",
       "email": "emily.jones@example.com"
     }
+  ],
+  "register": [
+    {
+      "name": "Alexandra",
+      "username": "xana",
+      "email": "xana@xpto.com",
+      "city": "braganca",
+      "country": "portugal",
+      "password": "abc",
+      "confirmPass" "abc"
+    }
   ]
 }
